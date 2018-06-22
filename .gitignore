@@ -1,7 +1,7 @@
-matlab_version/experiments_menpo/out_semifrontal/
-/x64/Release/
-/x64/Debug/
+*.user
+x64/
 matlab_version/pdm_generation/menpo_pdm/old_models/
+matlab_version/experiments_menpo/out_semifrontal/
 matlab_version/experiments_menpo/out_profile/
 matlab_version/experiments_menpo/menpo_fit_ceclm_test_profile/
 matlab_version/experiments_menpo/menpo_challenge_helpers/out_semifrontal/
